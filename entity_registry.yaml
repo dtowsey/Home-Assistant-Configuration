@@ -1,0 +1,50 @@
+light.living_front_right:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:0b:1d:2b-0b
+light.bedside_right:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:03:6d:65:7f-0b
+light.bedside_left:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:03:6d:65:45-0b
+light.living_front_left:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:0b:1b:80-0b
+light.kitchen_1:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:0b:1b:41-0b
+light.kitchen_2:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:03:6d:65:27-0b
+light.living_rear_right:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:0b:1d:13-0b
+light.living_rear_left:
+  config_entry_id: 0409dd766e1541cd97ba65dd3737f734
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:0b:1c:60-0b
+media_player.tv:
+  config_entry_id: dd5e05568bc84deca93fd058d66bac21
+  name:
+  platform: cast
+  unique_id: 8ca3769d-551d-e287-a166-592dd724d992
+media_player.living_room:
+  config_entry_id: dd5e05568bc84deca93fd058d66bac21
+  name:
+  platform: cast
+  unique_id: c6d19b8e-b69f-7706-ac01-3dd91ad151cd
